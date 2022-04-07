@@ -1,6 +1,6 @@
 #include <stdio.h>
-/* main - hhij
- * return: uhfuhf
+/* main - print the phrase with proper grammar, but the outcome is a piece of art
+ * return: upob 0
  * */
 int main(void)
 {
