@@ -4,7 +4,7 @@
 
 /* more headers goes there */
 /*
- * main - prints "98 is positive" if n > 0,
+ * main: prints "98 is positive" if n > 0,
  * if n < 0 print "-98 is negative",
  * if n == 0 print "is zero",
  * Return: 0 Always (sucess)
