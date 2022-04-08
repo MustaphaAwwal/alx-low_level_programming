@@ -11,24 +11,23 @@
 */
 /* betty style doc for function main goes there */
 int main(void)
-
 {
 	int n;
-	
+
 	srand(time(0));
-        n = rand() - RAND_MAX / 2;
-	/* your code goes there */
+	n = rand() - RAND_MAX / 2;
+/* your code goes there */
 	if (n > 0)
 	 {
-	 printf("is positive\n");
-	 }
+	printf("98 is positive\n");
+	}
 	if (n == 0)
-	 {
-	 printf("is zero\n");
-	 }
+	{
+	printf("0 is zero\n");
+	}
 	if (n < 0)
 	{
- 	printf("is negative \n");
+ 	printf("-98 is negative \n");
 	}
 	return (0);
 
