@@ -4,8 +4,8 @@
 
 /* more headers goes there */
 /*
- * main - prints "is negative" when n < 0
- * when n > 0 print "is positive"
+ * main - prints "98 is positive" when n > 0
+ * when n < 0 print "-98 is negative"
  * and when n-0 print "is zero"
  * Return: 0 Always (sucess)
 */
@@ -27,7 +27,7 @@ if (n == 0)
 	}
 if (n < 0)
 	{
- 	printf("-98 is negative\n");
+	printf("-98 is negative\n");
 	}
 	return (0);
 
