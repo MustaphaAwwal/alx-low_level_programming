@@ -26,7 +26,7 @@ int main(void)
 	 }
 	if (n < 0)
 	{
-	putchar("is negative");
+ 	putchar("is negative");
 	}
 	return (0);
 
