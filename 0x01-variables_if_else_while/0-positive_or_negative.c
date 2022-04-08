@@ -4,9 +4,9 @@
 
 /* more headers goes there */
 /*
- * main - prints "98 is positive" when n > 0,
- * when n < 0 print "-98 is negative",
- * and when n == 0 print "is zero",
+ * main - prints "98 is positive" if n > 0,
+ * if n < 0 print "-98 is negative",
+ * if n == 0 print "is zero",
  * Return: 0 Always (sucess)
 */
 /* betty style doc for function main goes there */
