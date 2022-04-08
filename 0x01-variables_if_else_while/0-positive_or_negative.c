@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
@@ -7,6 +8,7 @@
  * when n > 0 print "is positive"
  * and when n-0 print "is zero"
  * Return: Always 0 (sucess)
+*/
 /* betty style doc for function main goes there */
 int main(void)
 
@@ -18,15 +20,15 @@ int main(void)
 	/* your code goes there */
 	if (n > 0)
 	 {
-	 putchar("is positive");
+	 printf("is positive\n");
 	 }
 	if (n == 0)
 	 {
-	 putchar("is zero");
+	 printf("is zero\n");
 	 }
 	if (n < 0)
 	{
- 	putchar("is negative");
+ 	printf("is negative \n");
 	}
 	return (0);
 
