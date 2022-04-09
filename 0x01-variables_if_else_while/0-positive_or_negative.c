@@ -2,12 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* more headers goes there */
-/*
- * main: prints "98 is positive" if n > 0,
- * if n < 0 print "-98 is negative",
- * if n == 0 print "is zero",
- * Return: 0 Always (sucess)
+/* more headers goes there  */
+/**
+*main _ Print a random number
+*
+*Return: program run sucessfully
 */
 /* betty style doc for function main goes there */
 int main(void)
