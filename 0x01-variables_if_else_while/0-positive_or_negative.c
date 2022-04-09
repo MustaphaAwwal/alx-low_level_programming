@@ -4,7 +4,7 @@
 
 /* more headers goes there  */
 /**
-*main _ Print a random number
+*main - Print a random number
 *
 *Return: program run sucessfully
 */
