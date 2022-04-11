@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - print all number 
+ * main - print all number
  *
  * Return: always success
  */
