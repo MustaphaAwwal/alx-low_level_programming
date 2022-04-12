@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print and check
+ * islower - print and check output
  *
  */
 int _islower(int c)
