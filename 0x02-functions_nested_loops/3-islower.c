@@ -2,7 +2,8 @@
 #include "main.h"
 
 /**
- * islower - print and check output
+ * _islower - print and check output
+ * islower: jos 0
  *
  */
 int _islower(int c)
