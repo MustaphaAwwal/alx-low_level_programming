@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - find and prints 
+ * main - find and prints
  *
  * Return: alway 0
  */
