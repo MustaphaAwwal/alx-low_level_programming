@@ -3,7 +3,7 @@
 
 /**
  * main - check the code
- *
+ * @c: is the value being checked
  * Return: Always 0
  */
 int main(void)

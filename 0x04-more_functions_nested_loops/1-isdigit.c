@@ -1,6 +1,5 @@
 #include "main.h"
 #include <stdio.h>
-
 /**
  * _isdigit - check andd confirm
  * @c: to be checked
