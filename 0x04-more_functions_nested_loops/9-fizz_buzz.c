@@ -13,14 +13,6 @@ int main(void)
 
 	for (i = 1; i <= 100; i++)
 	{
-<<<<<<< HEAD
-		if ((i % 3) = '0')
-			printf("Fizz");
-		if ((i % 5) = '0')
-			printf("Buzz");
-		if ((i % 3) = '0' && (i % 5) = '0')
-			printf("FizzBuzz");
-=======
 		if (i % 3 == 0 && i % 5 != 0)
 		{
 			printf(" Fizz");
@@ -37,7 +29,6 @@ int main(void)
 		{
 			printf(" %d", i);
 		}
->>>>>>> bd89e3fab5f32b5ac9e993e78b27de342bc82ccb
 	}
 	printf("\n");
 
