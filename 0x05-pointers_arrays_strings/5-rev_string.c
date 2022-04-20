@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 #include "main.h"
 /**
  * rev_string - reverses a string
@@ -28,4 +25,3 @@ void rev_string(char *s)
 		s[len1--] = tmp;
 	}
 }
->>>>>>> 4b14fe3a04950c887a4de5d03dbd2a5b3a0c6e5c
