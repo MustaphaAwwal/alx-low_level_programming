@@ -26,5 +26,3 @@ char *leet(char *s)
 
 	return (s);
 }
-© 2022 GitHub, Inc.
-Terms
