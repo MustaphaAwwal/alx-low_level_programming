@@ -25,6 +25,3 @@ int int_index(int *array, int size, int (*cmp)(int))
 
 	return (-1);
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
